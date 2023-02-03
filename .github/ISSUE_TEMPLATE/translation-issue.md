@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## What language localization is flawed?
+## Which language localization is flawed?
 
 (write a language)
 

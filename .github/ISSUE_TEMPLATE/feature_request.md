@@ -11,6 +11,6 @@ assignees: ''
 
 (describe in detail)
 
-## Why it should be in the mod?
+## Why should it be in the mod?
 
 (what problem it solves, what improves, etc.)
